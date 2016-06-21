@@ -1,0 +1,7 @@
+[package]
+name = "rurtp"
+version = "0.0.1"
+authors = ["james.lucas <james.lucas@loopup.com>"]
+
+[dependencies]
+byteorder = "0.5.3"
