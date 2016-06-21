@@ -17,6 +17,9 @@
 /// |            contributing source (CSRC) identifiers             |
 /// |                             ....                              |
 /// +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+/// |                       Extension Header                        |
+/// |                             ....                              |
+/// +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
 
 
 use byteorder::{ByteOrder, NetworkEndian};
